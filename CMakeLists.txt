@@ -1,6 +1,6 @@
 project(xmr-stak)
 
-cmake_minimum_required(VERSION 3.4.0)
+cmake_minimum_required(VERSION 2.4.0)
 
 # enforce C++11
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
